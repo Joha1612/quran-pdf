@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "Quran PDF to Flipbook converter and viewer",
   "main": "server.js",
-  "type": "module",
   "scripts": {
     "start": "node server.js"
   },
